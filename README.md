@@ -5,7 +5,6 @@
 - Access to Openshift Cluster.
 - Login as `cluster-admin`
 
-Go to `KS-Operator` :
 
 Apply Kubeshark CRD
 
